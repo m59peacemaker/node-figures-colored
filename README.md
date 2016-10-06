@@ -26,7 +26,7 @@ const {tick, cross} = require('figures')
 const {green, red} require('chalk')
 
 console.log(`It worked ${green(tick)}`) // green checkmark
-console.log(`It failed ${red(cross})`) // red X
+console.log(`It failed ${red(cross)}`) // red X
 ```
 
 ## more colors
