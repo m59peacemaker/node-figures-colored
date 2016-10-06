@@ -1,6 +1,6 @@
 {
   "name": "figures-colored",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "npm [figures](https://www.npmjs.com/package/figures) in common colors.",
   "main": "index.js",
   "keywords": [
